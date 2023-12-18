@@ -1,0 +1,90 @@
+
+.mainheading {
+  background-color: darkblue;
+  text-align: center;
+  height: 150pt;
+  width: 1000pt;
+  margin-inline-end: auto;
+  font-size: 30pt;
+  color: white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  
+}
+
+.row1{
+    background-color: rgb(16, 16, 24);
+    text-align: center;
+    height: 30pt;
+    color: white;
+    font-size: 20px;
+    
+}
+
+
+.table01{
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.row1:hover{
+    background-color: rgb(80, 92, 97);
+}
+.row1:visited{
+    background-color: darkgray;
+}
+.OFF{
+    background-color: rgb(196, 196, 196);
+    text-align: center;
+    height: 40pt;
+    margin-top: 10pt;
+    font-size: 30pt;
+}
+.itemtable{
+    background-color: rgb(3, 0, 26);
+    color: white;
+    border-color: rgb(0, 0, 0);
+    width: 800pt;
+    text-align: center;
+    margin-left: 100pt;
+    height: 80pt;   
+    
+}
+
+
+.item01:hover{
+    background-color: rgb(75, 75, 75);
+}
+.item01:visited{
+    color: white;
+}
+
+          
+
+.aboutpageimage{
+    text-indent: 20pt;
+}
+
+.aboutbackimage{
+    background-image: url(./Images/about\ image.webp);
+    background-repeat : no-repeat;
+}
+
+.Aboutcenter{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.inputname{
+    background-image: url(./icons/user.png);
+}
+
+
+.body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.icontd{
+    width: 30px;
+    ;
+}
